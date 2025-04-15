@@ -1,12 +1,11 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+![logo](img/logo.png)
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 💪儿童山地车安装使用指南，我们使用Docsify打造简单、最轻安装说明文档。
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+ 宝宝，你的健康成长是我们全家的最大快乐。
+ - 让美丽的心情尽在脚下
 
 
 [开始使用 Let Go](/README.md)
