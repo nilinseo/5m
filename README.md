@@ -2,6 +2,12 @@
 我们这个文档主要的讲解就是买家收到自行车后，面临的一些：安装整车的教程，调试线碟刹以及一些其他的问题的解决方案。
 
 本文档会以视频+图文方式描述整个操作过程。
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="/img/diesha.jpg" width="23%" />
+  <img src="/img/diesha1.jpg" width="23%" />
+  <img src="/img/diesha2.jpg" width="23%" />
+  <img src="/img/diesha3.jpg" width="23%" />
+</div>
 
 ## 本文档的目录
 
